@@ -6,7 +6,7 @@
 ## 🔗 Portfolio
 
 - 📄 [My Resume (Live Website)](https://majashajnoska.github.io/portfolio-resume)
-- 🤖 [Playwright Automation Portfolio]()
+- 🤖 [Playwright Automation Portfolio](https://github.com/majashajnoska/playwright-automation)
 
 ## 🛠️ Tech & Tools
 
