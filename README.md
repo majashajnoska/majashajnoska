@@ -1,5 +1,3 @@
-cat > README.md <<'MD'
-
 # 👋 Hi, I'm Maja Shajnoska
 
 💻 Software QA Engineer with 8+ years of experience in manual and automation testing.
@@ -23,4 +21,3 @@ cat > README.md <<'MD'
 
 - GitHub: https://github.com/majashajnoska
 - Email: maja.shajnoska@gmail.com
-  MD
