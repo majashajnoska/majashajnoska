@@ -17,6 +17,9 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Faker](https://img.shields.io/badge/Faker-%23FF5733?style=for-the-badge)
+![Env](https://img.shields.io/badge/.env-808080?style=for-the-badge)
+![Secrets](https://img.shields.io/badge/GitHub_Secrets-6e5494?style=for-the-badge)
 
 ## 📫 Connect
 
