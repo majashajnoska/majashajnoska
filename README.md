@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Maja Shajnoska
 
-💻 Software QA Engineer with 8+ years of experience in manual and automation testing.
-🚀 Focus: Playwright (JavaScript), API testing, CI/CD.
+- 💻 Software QA Engineer with 8+ years of experience in manual and automation testing.
+- 🚀 Focus: Playwright (JavaScript), API testing, CI/CD.
 
 ## 🔗 Portfolio
 
